@@ -20,4 +20,4 @@ type `juptyer notebook` into terminal and a browser window will pop up. Click on
 each block of code to see the output results.
 
 ##Reference
-For more reference and hands on coding, please the video below [this](https://www.youtube.com/watch?v=4urPuRoT1sE).
+For more reference and hands on coding, please refer to the video [this](https://www.youtube.com/watch?v=4urPuRoT1sE).
